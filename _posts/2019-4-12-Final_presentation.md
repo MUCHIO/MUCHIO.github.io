@@ -33,6 +33,7 @@ Fully automated system to encode and decode data in DNA.
 
 ->[Reference](https://news.microsoft.com/innovation-stories/hello-data-dna-storage/)
 
+
 ## Project
 
 ### 1. Write down characters and translate data to DNA code
@@ -67,3 +68,5 @@ A T T G C C A .....
 
 ### 3.Sequencing DNA in microbe and pick out the data
 ### 4.Regenerate handwriting information
+
+[Link to slides](https://www.slideshare.net/HironobuNakamura2/biohack-academy-final-presentation-140185770)
